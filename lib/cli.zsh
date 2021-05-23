@@ -284,8 +284,8 @@ function _omz::pr::test {
     # Get the ohmyzsh git remote
     command git remote -v | while read remote url _; do
       case "$url" in
-      https://github.com/ohmyzsh/ohmyzsh(|.git)) found=1; break ;;
-      git@github.com:ohmyzsh/ohmyzsh(|.git)) found=1; break ;;
+      https://github.com/ThoTrung/ohmyzsh(|.git)) found=1; break ;;
+      git@github.com:ThoTrung/ohmyzsh(|.git)) found=1; break ;;
       esac
     done
 

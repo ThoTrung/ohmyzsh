@@ -32,7 +32,7 @@ You can also record an asciinema session: https://asciinema.org/
   This can help cut down on filling up issues. We always have a few people
   online that are in a variety of timezones that are willing to help you!
 
-- Also searching existing [GitHub Issues](https://github.com/ohmyzsh/ohmyzsh/issues?q=) might help you get quicker support
+- Also searching existing [GitHub Issues](https://github.com/ThoTrung/ohmyzsh/issues?q=) might help you get quicker support
 
 **Desktop (please complete the following information):**
 
